@@ -1,0 +1,9 @@
+EngineName,EngineCode,Capacity,Cylinders,Aspiration,RedLine,Power,EngineTorque,Chassis,FuelType
+M20,M20B25,2494 CC,Inline-6,Naturally aspirated,6500 RPM,169 HP at 5800 RPM,226 NM at 4300 RPM,"1985–1993 E30 3 Series 325i,1989–1990 E34 5 Series 525i,1988–1991 Z1",Petrol
+S14,S14B25 EVO3,2467 CC,Inline-4,Naturally aspirated,7300 RPM,235 HP at 7000 RPM,240 NM at 4750 RPM,"1989-1990 E30 M3",Petrol
+S54,S54B32,3246 CC,Inline-6,Naturally aspirated,8000 RPM,338 HP at 7900 RPM,365 NM at 4900 RPM,"2000–2006 E46 M3,2000–2002 Z3 M ,2006-2008 Z4 M",Petrol
+S54HP,S54B32HP,3246 CC,Inline-6,Naturally aspirated,8000 RPM,360 HP at 7900 RPM,370 NM at 4900 RPM,2003 E46 M3 CSL,Petrol 
+B58,B58B30O1,2998 CC,Inline-6,Turbocharger,7000 RPM,382 HP at 5000–6500 RPM,500 NM at 1600–4500 RPM,"2019–2026 G29 Z4 M40i ,2019–2024 G20/G21 M340i, 2020–2024 G01 X3 M40i, 2019–2024 G02 X4 M40i, 2021–present G22/G23/G26 M440i, 2021–present Toyota Supra, 2021–present G42 M240i, 2021–present Boldmen CR4",Petrol
+S58,S58B30T0,2993 CC,Inline-6,Twin-Turbocharger,7200 RPM,503 HP at 6250 RPM,650 NM at 2600–5950 RPM,"2019–present F97 X3 M Competition, 2019–present F98 X4 M Competition, 2021–present G80 M3 Competition, 2021–present G82 M4 Competition, 2022–present G81 M3 Competition Touring",Petrol
+B48,B48B20,1998 CC, Inline-4,Turbocharger,7000 RPM,154 HP at 4500–6500 RPM,250 NM at 1300–4300 RPM,"2020–present G20 318i,2022–present G42 218i",Petrol
+M57,M57D30TÜ2,2993 CC,Inline-6,Twin-Turbocharger,4750 RPM,228 HP at 4000 RPM,520 NM at 2000-2750 RPM,"E65/E66 as 730d, E90/E91/E92/E93 as 330d/330xd,E60/E61 as 530d/530xd",Diesel
